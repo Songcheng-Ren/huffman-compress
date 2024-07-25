@@ -1,0 +1,1 @@
+huffman文件夹为QT工程文件夹，源码保存在其中。huff中的huffman.exe为可执行文件。
